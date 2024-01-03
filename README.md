@@ -19,4 +19,6 @@ Under the mentorship of Shashi Sir, the team received invaluable guidance throug
 🔗 **Connect with us:**
 Join us on this journey of revolutionizing remote collaboration! Connect with the Desk Buddy team and stay updated on our latest developments.
 
+![](./thumbnail.png)
+
 \#DeskBuddy #RemoteCollaboration #JavaFX #SuperX #Teamwork #Innovation
